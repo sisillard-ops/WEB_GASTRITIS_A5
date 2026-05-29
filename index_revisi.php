@@ -1120,7 +1120,7 @@ line-height:1.6;
 <nav>
 
   <a href="#home" class="nav-brand-wrap">
-    <img src="img/logo_web_new2.jpeg"
+    <img src="img/logo_web_new.jpeg"
          alt="Logo CERNA"
          class="nav-logo-img"
          style="background:transparent;padding:2px;"
